@@ -1,0 +1,14 @@
+.number-input {
+  text-align: right;
+  font-size: 24px;
+  padding: 10px;
+}
+.format-btn {
+  font-size: 24px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.hidden {
+  display: none;
+}
